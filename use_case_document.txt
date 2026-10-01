@@ -1,0 +1,73 @@
+# Custom GPT Use Case Document
+
+## GPT Name
+
+Employee Leave Assistant
+
+## Target Users
+
+### Primary Users
+
+Employees who need information about company leave policies.
+
+### Secondary Users
+
+Managers and HR team members who need to clarify leave-related rules or
+guide employees.
+
+## Problem Statement
+
+Employees frequently have questions about leave types, eligibility,
+application procedures, approval processes, and other leave-policy
+rules. Finding this information manually across HR documents can take
+time and may result in repeated questions to HR.
+
+The Employee Leave Assistant will provide conversational access to
+approved leave-policy information.
+
+## Expected Outcomes
+
+-   Target answering common leave-policy questions within 2 minutes.
+-   Target covering at least 50 common leave-policy questions.
+-   Target achieving 90% correct responses during defined testing.
+-   Target reducing repetitive leave-policy questions to HR by 40%.
+-   Target 30 employees participating in the pilot.
+
+## Required Knowledge
+
+  -----------------------------------------------------------------------
+  Information             Available?              Source / Action
+  ----------------------- ----------------------- -----------------------
+  Leave Policy            Yes                     Approved HR Policy PDF
+
+  Leave Types             Yes                     Employee Handbook
+
+  Eligibility Rules       To verify               Obtain approved HR
+                                                  documentation
+
+  Approval Process        Yes                     HR Documentation
+
+  Leave Application       To verify               Obtain approved process
+  Process                                         document
+
+  Leave FAQ               No                      Needs to be created
+  -----------------------------------------------------------------------
+
+## Validation Result
+
+### Clarity
+
+PASS - The problem and intended users are clearly defined.
+
+### Suitability
+
+PASS - Leave-policy questions are repetitive and knowledge-based, and
+conversational assistance can provide value.
+
+### Feasibility
+
+PASS - Core information is documented or can be obtained from approved
+HR sources.
+
+**Validation Status:** PASS
+
